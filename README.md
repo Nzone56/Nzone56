@@ -38,7 +38,7 @@ My work emphasizes clean, modular code and responsive design, always aligning wi
 ---
 ## 🧪 Work in Progress
 
-### ⚽ [Create Your League V2](<!-- add repo or live link here -->)  
+### ⚽ [Create Your League V2](https://github.com/Nzone56/CreateYourLeagueV2)  
 An improved and fully responsive version of **Create Your League**, built with **TypeScript**, **Redux**, **React Router**, and **Styled Components** using **MUI**.
 
 This second version focuses on scalability, modularity, and responsiveness across devices. It's designed from scratch with clean architecture patterns and better UI consistency.
@@ -52,7 +52,7 @@ This second version focuses on scalability, modularity, and responsiveness acros
 
 ---
 
-### 🧝 [Genshin Royal Rumble](<!-- add repo or live link here -->)  
+### 🧝 [Genshin Royal Rumble](https://github.com/Nzone56/GenshinRoyalRumble)  
 A full-featured simulation app using **Genshin Impact** characters via a public API.  
 Users can choose the tournament format (Swiss or Round Robin), select characters, define the evaluation method (by categories or manual), and simulate the full bracket.
 
@@ -69,26 +69,26 @@ Like "Create Your League", the app tracks match results, generates standings, up
 
 ## 📘 Featured Projects
 
-### ⚽ [Create Your League](<!-- add repo or live link here -->)  
+### ⚽ [Create Your League](https://github.com/Nzone56/CreateYourLeague)  
 A web application that simulates football leagues. Users can select a league, generate calendars, update match results, and track real-time standings and stats.
 
 Built with **React**, **React Router**, **Context API**, and **Material UI (MUI)**. The app recalculates league tables and statistics automatically after each match.
 
 ---
 
-### 🎥 [Google Meet Clone](<!-- add repo or live link here -->)  
+### 🎥 Google Meet Clone  
 **Universidad Nacional de Colombia**  
 A full-stack microservices project simulating a Google Meet environment. I worked on the **React** front-end and services for video/audio streaming, using **GraphQL**, **TypeScript**, and **Docker**.
 
 ---
 
-### 🍰 [Cake Shop Management Web App](<!-- add repo or live link here -->)  
+### 🍰 Cake Shop Management Web App
 **Universidad Nacional de Colombia**  
 An internal tool to manage orders and inventory for a cake shop. Focused on mobile-first responsive design, built with **React**.
 
 ---
 
-### 🧾 [Data Management for Law Firm](<!-- add repo or live link here -->)  
+### 🧾 [Data Management for Law Firm](https://github.com/Nzone56/DataManagement)  
 Freelance project for a law firm to handle clients, lawyers, invoices, and reports.  
 Built with **React**, **Firebase**, and **Tailwind CSS**, including real-time dashboards and data modules.
 
@@ -96,36 +96,36 @@ Built with **React**, **Firebase**, and **Tailwind CSS**, including real-time da
 
 ## 🔧 Learning & UI Projects
 
-### 🌀 [GifExpertApp](<!-- add repo or live link here -->)  
+### 🌀 [GifExpertApp](https://github.com/Nzone56/react-gif-expert)  
 First solo project in **React + Vite**, connected to GIPHY API to display search results.  
 Focused on fundamentals: props, state, lists, and conditional rendering.
 
 ---
 
-### 🧭 [HeroPage](<!-- add repo or live link here -->)  
+### 🧭 [HeroPage](https://github.com/Nzone56/HeroPage)  
 SPA for browsing fictional heroes with **React Router DOM**.  
 Good practice in dynamic routing and component composition.
 
 ---
 
-### 📓 [JournalApp](<!-- add repo or live link here -->)  
+### 📓 [JournalApp](https://github.com/Nzone56/journal-app)  
 Notes app using **Redux Toolkit**, **Material UI**, and user authentication.  
 Handled global state, input validation, and modular architecture.
 
 ---
 
-### 🌍 [CountriesApp](<!-- add repo or live link here -->)  
+### 🌍 [CountriesApp](https://github.com/Nzone56/CountriesApp)  
 Displays and filters countries using a public API. Built with **React**, **Redux**, and **MUI**.
 
 ---
 
-### ❤️ [Kaguya Clone Page](<!-- add repo or live link here -->)  
+### ❤️ [Kaguya Clone Page](https://github.com/Nzone56/KaguyaClonePage)  
 UI clone of various screens from *Kaguya-sama: Love is War*, styled with **Material UI (MUI)**.  
 Recreation project focused on pixel-perfect visual fidelity.
 
 ---
 
-### 🖥️ [My First Portfolio (v1)](<!-- add repo or live link here -->)  
+### 🖥️ [My First Portfolio (v1)](https://github.com/Nzone56/Portfolio)  
 Portfolio site built with **Astro**, **JavaScript**, and **Tailwind CSS**.  
 Static site generation with clean responsive layout.
 
