@@ -76,6 +76,19 @@ Built with **React**, **React Router**, **Context API**, and **Material UI (MUI)
 
 ---
 
+### ⚽ [PokeExplorer](https://github.com/Nzone56/PokeExplorer)  
+A web application that lets users browse and explore Pokémon data interactively. Users can filter, sort, and view detailed stats in a clean, responsive interface.
+
+Built with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **TanStack Table**, and **ShadCN UI**.  
+The app features:
+
+- 🔍 Dynamic table with **type filters** and **sortable columns**  
+- 🧩 Responsive **Pokémon grid layout**  
+- 📋 **Modal** with detailed Pokémon information  
+- 📊 **Stat-based color indicators** for quick visual comparison 
+
+---
+
 ### 🎥 Google Meet Clone  
 **Universidad Nacional de Colombia**  
 A full-stack microservices project simulating a Google Meet environment. I worked on the **React** front-end and services for video/audio streaming, using **GraphQL**, **TypeScript**, and **Docker**.
@@ -142,6 +155,7 @@ I'm experienced in routing, state management (Redux, Context API, Zustand), comp
 ### 🖼️ Front-End
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)  
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=zustand&logoColor=white)  
