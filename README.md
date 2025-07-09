@@ -155,7 +155,7 @@ I'm experienced in routing, state management (Redux, Context API, Zustand), comp
 ### 🖼️ Front-End
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)  
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)  
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=zustand&logoColor=white)  
