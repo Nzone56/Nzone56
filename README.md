@@ -1,155 +1,42 @@
 # 👋 Hi, I’m Julian Andres Pereira Plata (aka Nzone56)
 
-**🎯 Front-End Developer | 🛠️ React Specialist | 🌐 From Bogotá, Colombia**
+**Frontend Developer · React · TypeScript · Next.js** · Bogotá, Colombia
 
 ---
 
-## 🚀 About Me
-
-I’m a **Front-End Developer** focused on building clean, responsive, and scalable web applications. I enjoy crafting dynamic user interfaces, solving complex UI problems, and creating maintainable code that enhances both user experience and developer efficiency.
-
-I mainly work with **React** and related modern front-end tools, and I have experience developing interactive features like real-time dashboards, Kanban boards, and live chat systems. I care deeply about code quality, usability, and working closely with teams to ship features that matter.
-
-I hold a degree in **Computer and Systems Engineering**, which supports my solid technical foundation, but my real passion lies in front-end development and delivering great user experiences through thoughtful code.
-
+I build production React applications for retail and SaaS products, with a focus on frontend architecture, reusable component systems, and modernizing legacy code.
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🧩 Front-End Developer — [**Gecko SAS**](https://gecko.co/)  
-📍 Bogotá, Colombia | 🗓️ September 2023 – Present
-
-At Gecko SAS, I’ve been part of a major front-end migration for [**Audara**](https://es.audara.co/), the company’s contact center platform, helping move the core software from version 4 to version 5 using **React**. My work focuses on improving performance, maintainability, and responsiveness across mobile and tablet views using tools like **Sass**, **Bootstrap**, and **Reactstrap**.
-
-#### 🛠️ Key Responsibilities & Contributions:
-- Developed over **20 new CRUD modules** for the Audara Contact Center, maintaining design consistency and adhering to component-based architecture.
-- Built and maintained **responsive views** for both new and legacy modules, improving usability across devices.
-- Implemented and updated **dynamic reporting systems**, enabling real-time data visualization and improved analytics.
-- Refactored and optimized legacy code for better readability, modularity, and long-term maintainability.
-- Created interactive components like **real-time dashboards**, **Kanban boards**, and a **custom live chat** with personalized UI.
-- Integrated APIs using **Axios** and Node.js backends, including support for **AWS S3** file storage.
-- Regularly fixed UI and functional bugs as part of a continuous delivery cycle.
-- Followed best practices for **Git version control**, including branching strategies, pull requests, and detailed code reviews.
-
-My work emphasizes clean, modular code and responsive design, always aligning with performance, user experience, and scalability goals.
-
+**Mid-level Frontend Developer · Periferia IT Group** (consultant for Sodimac Colombia) · Aug 2025 – Present  
+Frontend for Sodimac's in-store sales platform: two React applications serving customers, advisors, and the Call Center across 2,500+ devices in 40+ stores. Led the migration of the customer app, took ownership of the advisor app, and built a 60+ component shared library used by both.
+ 
+**Frontend Developer · [Gecko SAS](https://gecko.co/)** · Sep 2023 – Aug 2025  
+Helped migrate [Audara](https://es.audara.co/), an omnichannel contact center platform, from a Java desktop application to a React web platform. Built 20+ CRUD modules, a real-time dashboard, a Kanban board, and a live-chat micro-frontend.
 
 ---
-## 🧪 Work in Progress
+## Featured project
+ 
+### [Pick'ems](https://pickems.io) · World Cup 2026 prediction platform
+ 
+Frontend co-developer on a team of 3 · Repo: [fifawcp/web](https://github.com/fifawcp/web)
+ 
+A bilingual (English/Spanish) prediction platform with match picks, brackets, private boards, and leaderboards. It reached **2,000 registered users** and **~500 daily active users** during the World Cup.
+ 
+My part: the feature-based architecture and GitHub Actions CI, authentication with NextAuth, the dashboard and private boards, group standings, the knockout bracket, and a bracket simulator that exports a shareable image, with Vitest unit tests for the simulation logic.
+ 
+`Next.js (App Router)` `React 19` `TypeScript` `Tailwind CSS` `Zustand` `TanStack Query` `NextAuth` `Vitest`
 
-### ⚽ [Create Your League V2](https://github.com/Nzone56/CreateYourLeagueV2)  
-An improved and fully responsive version of **Create Your League**, built with **TypeScript**, **Redux**, **React Router**, and **Styled Components** using **MUI**.
-
-This second version focuses on scalability, modularity, and responsiveness across devices. It's designed from scratch with clean architecture patterns and better UI consistency.
-
-#### 🔧 What's New:
-- Migration to **TypeScript**
-- Responsive UI with **Styled Components (MUI custom theme)**
-- Global state managed by **Redux Toolkit**
-- Optimized routing with **React Router v6**
-- Cleaner modular structure for easier scaling
-
----
-
-### 🧝 [Genshin Royal Rumble](https://github.com/Nzone56/GenshinRoyalRumble)  
-A full-featured simulation app using **Genshin Impact** characters via a public API.  
-Users can choose the tournament format (Swiss or Round Robin), select characters, define the evaluation method (by categories or manual), and simulate the full bracket.
-
-Like "Create Your League", the app tracks match results, generates standings, updates stats, and displays the tournament layout visually.
-
-#### 🔑 Tech Stack:
-- **React + TypeScript**
-- **Zustand** for global state
-- **React Router v6** for navigation
-- **Tailwind CSS** for styling
-- Public **Genshin Impact API** for character data
-
----
-
-## 📘 Featured Projects
-
-### ⚽ [Create Your League](https://github.com/Nzone56/CreateYourLeague)  
-A web application that simulates football leagues. Users can select a league, generate calendars, update match results, and track real-time standings and stats.
-
-Built with **React**, **React Router**, **Context API**, and **Material UI (MUI)**. The app recalculates league tables and statistics automatically after each match.
-
----
-
-### 🧭 [PokeExplorer](https://github.com/Nzone56/PokeExplorer)  
-A web application that lets users browse and explore Pokémon data interactively. Users can filter, sort, and view detailed stats in a clean, responsive interface.
-
-Built with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **TanStack Table**, and **ShadCN UI**.  
-The app features:
-
-- 🔍 Dynamic table with **type filters** and **sortable columns**  
-- 🧩 Responsive **Pokémon grid layout**  
-- 📋 **Modal** with detailed Pokémon information  
-- 📊 **Stat-based color indicators** for quick visual comparison 
-
----
-
-### 🎥 Google Meet Clone  
-**Universidad Nacional de Colombia**  
-A full-stack microservices project simulating a Google Meet environment. I worked on the **React** front-end and services for video/audio streaming, using **GraphQL**, **TypeScript**, and **Docker**.
-
----
-
-### 🍰 Cake Shop Management Web App
-**Universidad Nacional de Colombia**  
-An internal tool to manage orders and inventory for a cake shop. Focused on mobile-first responsive design, built with **React**.
-
----
-
-### 🧾 [Data Management for Law Firm](https://github.com/Nzone56/DataManagement)  
-Freelance project for a law firm to handle clients, lawyers, invoices, and reports.  
-Built with **React**, **Firebase**, and **Tailwind CSS**, including real-time dashboards and data modules.
-
----
-
-## 🔧 Learning & UI Projects
-
-### 🌀 [GifExpertApp](https://github.com/Nzone56/react-gif-expert)  
-First solo project in **React + Vite**, connected to GIPHY API to display search results.  
-Focused on fundamentals: props, state, lists, and conditional rendering.
-
----
-
-### 🧭 [HeroPage](https://github.com/Nzone56/HeroPage)  
-SPA for browsing fictional heroes with **React Router DOM**.  
-Good practice in dynamic routing and component composition.
-
----
-
-### 📓 [JournalApp](https://github.com/Nzone56/journal-app)  
-Notes app using **Redux Toolkit**, **Material UI**, and user authentication.  
-Handled global state, input validation, and modular architecture.
-
----
-
-### 🌍 [CountriesApp](https://github.com/Nzone56/CountriesApp)  
-Displays and filters countries using a public API. Built with **React**, **Redux**, and **MUI**.
-
----
-
-### ❤️ [Kaguya Clone Page](https://github.com/Nzone56/KaguyaClonePage)  
-UI clone of various screens from *Kaguya-sama: Love is War*, styled with **Material UI (MUI)**.  
-Recreation project focused on pixel-perfect visual fidelity.
-
----
-
-### 🖥️ [My First Portfolio (v1)](https://github.com/Nzone56/Portfolio)  
-Portfolio site built with **Astro**, **JavaScript**, and **Tailwind CSS**.  
-Static site generation with clean responsive layout.
-
-
----
-
-## 🧰 Tech Stack
-
-I build modern, scalable front-end apps using **React**, **TypeScript**, and UI libraries like **MUI** and **Tailwind**.  
-I'm experienced in routing, state management (Redux, Context API, Zustand), component testing, responsive UI, and also have basic understanding of back-end technologies, databases and cloud tools.
-
+## Side projects
+ 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [PokeExplorer](https://github.com/Nzone56/PokeExplorer) | Data explorer with filterable, sortable tables and detail views | Next.js, TypeScript, Tailwind CSS, TanStack Table, shadcn/ui |
+| [Genshin Royal Rumble](https://github.com/Nzone56/GenshinRoyalRumble) | Tournament simulator (Swiss or Round Robin) with brackets and standings | React, TypeScript, Zustand, Tailwind CSS |
+| [Create Your League V2](https://github.com/Nzone56/CreateYourLeagueV2) *(in progress)* | Football league simulator rebuilt in TypeScript | React, TypeScript, Redux Toolkit, MUI |
+| [Data Management](https://github.com/Nzone56/DataManagement) *(freelance)* | Client, lawyer, invoice, and report management for a law firm | React, Firebase, Tailwind CSS |
 ---
 
 ### 🖼️ Front-End
