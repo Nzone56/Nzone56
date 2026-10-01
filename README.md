@@ -108,9 +108,8 @@ My part: the feature-based architecture and GitHub Actions CI, authentication wi
 
 ## 📫 Contact Me
 
-- ✉️ Email: [jpereirap@unal.edu.co](mailto:jpereirap@unal.edu.co)  
+- ✉️ Email: [julianpereira.dev@gmail.com](mailto:julianpereira.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jpereirap](https://www.linkedin.com/in/jpereirap)  
-- 🌐 Portfolio: [jpereirap.com](https://jpereirap.com)
 
 ---
 
